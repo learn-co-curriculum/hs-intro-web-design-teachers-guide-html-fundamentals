@@ -75,7 +75,7 @@ Yesterday you used a prepared template to create personal pages for our student 
   * Browsers can only display whatever fonts are downloaded on that computer. 
   * If a web application is using some random font that my computer doesn't have, I won't be able to see it
   * [Google fonts](http://www.google.com/fonts) is a great resource
-  * Click the quick view button <img src="https://s3.amazonaws.com/after-school-assets/google-font-quick-view.png" height="20px">
+  * Click the quick view button <img src="https://s3.amazonaws.com/after-school-assets/google-font-quick-view.png" height="30px">
 
 
 + Adding pages to your site: create three separate html files 
