@@ -80,8 +80,11 @@ Yesterday you used a prepared template to create personal pages for our student 
   * Copy that the `@import`... text and paste it at the top of your CSS file
   * Step 4 shows you how to use the font: <img src="https://s3.amazonaws.com/after-school-assets/google-font-usage.png">
     * They chose to style the `font-weight` property as well, you can ignore that
-
-
+  ```css
+    h1 {
+      font-family: 'Metrophobic', Arial, serif;
+    }
+  ```
 + Adding pages to your site: create three separate html files 
 + Inside of those files set up your html file structure
 + To link to pages in the same site, use a tag.
