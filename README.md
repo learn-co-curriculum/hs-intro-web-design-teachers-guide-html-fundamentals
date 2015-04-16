@@ -78,7 +78,7 @@ Yesterday you used a prepared template to create personal pages for our student 
   * Click the quick view button <img src="https://s3.amazonaws.com/after-school-assets/google-font-quick-view.png" height="30px">
   * Scroll down the page till you see this and make sure `import` is selected: <img src="https://s3.amazonaws.com/after-school-assets/google-font-import.png">
   * Copy that the `@import`... text and paste it at the top of your CSS file
-  * Step 4 shows you how to use the font: <img src="https://s3.amazonaws.com/after-school-assets/google-font-usage.png" height="50px">
+  * Step 4 shows you how to use the font: <img src="https://s3.amazonaws.com/after-school-assets/google-font-usage.png" height="150px">
     * They chose to style the `font-weight` property as well, you can ignore that
 
 
