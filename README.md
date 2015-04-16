@@ -57,9 +57,27 @@ Yesterday you used a prepared template to create personal pages for our student 
   * `href` attribute: where to find the file being linked
     * have to tell our `index.html` how to find `style.css`, so it needs to go inside css directory first
 + Other styling:text size, image size, centering text, background color, background image and have them style their page.
-  * see code snippets!!!! NEED TO WRITE THESE
-+ RGBA vs Hexadecimal color - introduce color picker !!!! NEED TO WRITE THESE
-+ Google fonts !!!! NEED TO WRITE THESE
+  * see code snippets [here](https://github.com/flatiron-school-curriculum/hs-intro-web-design-teachers-guide-code-snippet-1)
++ RGB vs Hexadecimal color - introduce color picker 
+  * There are a few ways to get more specific with color value other than just writing "red". There are many tones of red
+  * RGB- stands for Red, Green, Blue. RGB color model is the ways of getting different colors through adding different amounts of Red, Green, and Blue.
+    * Count up from 0 amounts of each to 255 of each
+    * `rgb(0,0,0)` gives you black
+    * `rgb(255,255,255)` gives you white
+  * Hexademical is a different notation for the amount of Red, Green, and Blue that gets added to your color.
+    * count: 0, 1, 2, 3, 4, 5, 6, 7, ,8, 9, a, b, c, d, e, f
+    * 6 values: two red, two green, two blue
+    * `#000000` is black
+    * `#ffffff` is white
+    * `#0000FF` is blue (zero amounts of red and green)
+  * [Color Picker](http://www.w3schools.com/tags/ref_colorpicker.asp) is a great resource to find other color tones
++ Google fonts 
+  * Browsers can only display whatever fonts are downloaded on that computer. 
+  * If a web application is using some random font that my computer doesn't have, I won't be able to see it
+  * [Google fonts](http://www.google.com/fonts) is a great resource
+  * Click the quick view button <img src="https://s3.amazonaws.com/after-school-assets/google-font-quick-view.png" height="5px">
+  
+
 + Adding pages to your site: create three separate html files 
 + Inside of those files set up your html file structure
 + To link to pages in the same site, use a tag.
