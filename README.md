@@ -76,6 +76,10 @@ Yesterday you used a prepared template to create personal pages for our student 
   * If a web application is using some random font that my computer doesn't have, I won't be able to see it
   * [Google fonts](http://www.google.com/fonts) is a great resource
   * Click the quick view button <img src="https://s3.amazonaws.com/after-school-assets/google-font-quick-view.png" height="30px">
+  * Scroll down the page till you see this and make sure `import` is selected: <img src="https://s3.amazonaws.com/after-school-assets/google-font-import.png">
+  * Copy that the `@import`... text and paste it at the top of your CSS file
+  * Step 4 shows you how to use the font: <img src="https://s3.amazonaws.com/after-school-assets/google-font-usage.png">
+    * They chose to style the `font-weight` property as well, you can ignore that
 
 
 + Adding pages to your site: create three separate html files 
