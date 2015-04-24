@@ -57,7 +57,7 @@ Yesterday you used a prepared template to create personal pages for our student 
   * `href` attribute: where to find the file being linked
     * have to tell our `index.html` how to find `style.css`, so it needs to go inside css directory first
 + Other styling:text size, image size, centering text, background color, background image and have them style their page.
-  * see code snippets [here](https://github.com/flatiron-school-curriculum/hs-intro-web-design-teachers-guide-code-snippet-1)
+  * see code snippets [here](https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-code-snippet-1)
 + RGB vs Hexadecimal color - introduce color picker 
   * There are a few ways to get more specific with color value other than just writing "red". There are many tones of red
   * RGB- stands for Red, Green, Blue. RGB color model is the ways of getting different colors through adding different amounts of Red, Green, and Blue.
