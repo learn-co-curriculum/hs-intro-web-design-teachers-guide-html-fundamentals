@@ -93,7 +93,7 @@ Yesterday you used a prepared template to create personal pages for our student 
   * will style next class as a nav bar
 
 ### Conclusion / So What?
-CSS allows us to add styling to our page. Together, HTML and CSS give us the we as we know it. 
+CSS allows us to add styling to our page. Together, HTML and CSS give us the web as we know it. 
 
 ### Hints and Hurdles
 + Test all your CSS examples first and know how you're going to live code them. It's easy to make mistakes here that are hard to get out of
