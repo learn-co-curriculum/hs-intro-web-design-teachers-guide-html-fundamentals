@@ -53,4 +53,4 @@ HTML allows us to define and label the content of our page. Across browsers, the
 
 ### Hints and Hurdles
 + An HTML element is composed of an opening tag, content, and a closing tag
-<a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-html-fundamentals' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-html-fundamentals' title='SWABTS'>SWABTS</a> on Learn.co and start learning to code for free.</p>
